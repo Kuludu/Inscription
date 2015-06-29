@@ -1,0 +1,6 @@
+name: Inscription
+main: net.kuludu.main.Main
+authors: ['Kuludu']
+version: V0.0.1
+commands:
+  ins:
